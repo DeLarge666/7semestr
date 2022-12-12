@@ -1,0 +1,13 @@
+D:\VS_PROJECTS\registration,hash\GachiTours\bin\Debug\GachiTours.exe.config
+D:\VS_PROJECTS\registration,hash\GachiTours\bin\Debug\GachiTours.exe
+D:\VS_PROJECTS\registration,hash\GachiTours\bin\Debug\GachiTours.pdb
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\HESHIROVANIE.csproj.AssemblyReference.cache
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\HESHIROVANIE.csproj.SuggestedBindingRedirects.cache
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\GachiTours.Form1.resources
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\GachiTours.log_in.resources
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\GachiTours.Properties.Resources.resources
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\GachiTours.sign_up.resources
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\HESHIROVANIE.csproj.GenerateResource.cache
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\HESHIROVANIE.csproj.CoreCompileInputs.cache
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\GachiTours.exe
+D:\VS_PROJECTS\registration,hash\GachiTours\obj\Debug\GachiTours.pdb
