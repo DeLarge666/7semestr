@@ -1,1 +1,1 @@
-https://disk.yandex.ru/client/disk/Колледж/Новелла - Диск 
+https://disk.yandex.ru/d/f8dWFqOWAmzpow - Диск 
